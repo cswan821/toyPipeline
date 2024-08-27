@@ -1,0 +1,5 @@
+default:
+input: data.csv
+output: results.csv
+n: 10
+
