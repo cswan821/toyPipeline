@@ -1,4 +1,10 @@
 This is a Vignette
+<<<<<<< HEAD
 Assign NOVA to the task of writing this vignette
 This is a qmd, so we need a header and we can include R code with output in the vignette.
 
+=======
+Assign NOVA to the task of writing this vignette.
+
+Ned to start by finding an example dataset.
+>>>>>>> f7f1517d6d955022f0857c941efd6e43069c2086
